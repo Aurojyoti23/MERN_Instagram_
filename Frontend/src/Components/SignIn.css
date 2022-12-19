@@ -1,7 +1,7 @@
 .signIn{
-    background-image: linear-gradient(90deg, #020024 1%, #090979 35%, #00d4ff 100%);
+    background-image: linear-gradient(310deg, #667909aa 9%, #b00052, blue 140%);
     background-size: cover;
-    height: 90vh;
+    height: 100vh;
     flex: 1;
     display: flex;
     justify-content: center;
@@ -21,14 +21,12 @@ input{
     background-color: rgba(255, 255, 255, 0.336);
     padding: 30px;
     width: 250px;
-    border: 1px solid rgb(41, 44, 44);
     border-radius: 5px;
 }
 .logInForm2{
     background-color: rgba(255, 255, 255, 0.336);
-    padding: 10px;
+    padding: 15px;
     margin-top: 5px;
-    border: 1px solid rgb(41, 44, 44);
     border-radius: 5px;
 }
 #login-btn{

@@ -3,10 +3,14 @@ img{
     object-fit: contain;
 }
 .navbar{
+
+    position: fixed;
+    width: 100vw;
     display: flex;
     justify-content: space-around;
-    box-shadow: 1px 5px 5px #e0dcdc;
+    box-shadow: 1px 5px 5px rgb(61 52 52 / 22%);
     /* position: sticky; */
+    background-color: #00fff529;
 }
 ul{
     display: flex;
